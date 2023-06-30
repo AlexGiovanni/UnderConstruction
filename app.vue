@@ -13,7 +13,6 @@
 .center {
   text-align: center;
   margin: auto;
-  width: 50%;
-  padding: 10px;
+  padding: 5px;
 }
 </style>
